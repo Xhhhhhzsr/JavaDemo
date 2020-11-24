@@ -15,7 +15,7 @@ import java.awt.event.KeyEvent;
             textArea_A.setBounds(100,100,256,128);
             textArea_A.setBackground(Color.orange);
             myPanel.add(textArea_A);
-            textArea_B.setBounds(100,200,256,128);
+            textArea_B.setBounds(100,300,256,128);
             textArea_B.setBackground(Color.PINK);
             myPanel.add(textArea_B);
 
